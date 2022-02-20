@@ -4,7 +4,7 @@ import { social, links } from "./Data";
 
 const Sidebar = () => {
   return (
-    <aside className={`sidebar show-sidebar`}>
+    <aside className={`sidebar`}>
       <div className="sidebar-header">
         <img
           src="https://raw.githubusercontent.com/john-smilga/react-projects/master/12-sidebar-modal/setup/src/logo.svg"
